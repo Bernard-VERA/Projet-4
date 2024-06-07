@@ -1,3 +1,3 @@
-## Planifiez le développement du site de votre client
+# Planifiez le développement du site de votre client
   
-# Projet 4 : Menu Maker by Qwenta
+## Projet 4 : Menu Maker by Qwenta
