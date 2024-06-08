@@ -16,19 +16,19 @@ Enfin, vous présenterez la solution technique.
 Vous êtes développeur front-end au sein de l’agence Webgencia. On vous confie une mission un peu différente de d’habitude. Il ne s’agit pas de développer un site mais de mener, préparer et planifier le projet de développement d’un site. En effet, Qwenta, un de vos clients, souhaite faire développer un “Menu Maker”. Il s’agit d’un site permettant aux restaurateurs d’afficher et de mettre en page leurs menus facilement, en quelques clics. C’est l’occasion pour vous de mettre en place une méthodologie de travail agile et de collaborer avec Soufiane, Product Owner. Il vous envoie l’invitation à la réunion de validation du projet qui aura lieu dans 2 semaines avec John, chef de projet chez Qwenta :
 
 _Hello, Comme promis, voici l’invitation ! J’en profite pour partager plus d’informations. Tu as à ta disposition:_  
-_* la maquette desktop conçue par notre UI designer, qui présente le résultat final attendu du site;_  
-_* le document de spécifications fonctionnelles qui liste les exigences qui devront être prises en compte dans le développement du site;_  
-_* Le tableau des user stories sur Notion qui présente les besoins et attentes des utilisateurs du site._  
+_- la maquette desktop conçue par notre UI designer, qui présente le résultat final attendu du site;_  
+_- le document de spécifications fonctionnelles qui liste les exigences qui devront être prises en compte dans le développement du site;_  
+_- Le tableau des user stories sur Notion qui présente les besoins et attentes des utilisateurs du site._  
 
-_Tu vas pouvoir m’aider à préparer la réunion de présentation du projet à John sur 3 volets :_
-_développer un système de veille qui te donnera des idées pour ce projet, et qu’on pourra réutiliser dans l’équipe;_  
-_en parallèle, déterminer les spécifications techniques du site Menu Maker by Qwenta;_  
-_puis organiser la gestion de projet du développement du site._  
+_Tu vas pouvoir m’aider à préparer la réunion de présentation du projet à John sur 3 volets :_  
+_- développer un système de veille qui te donnera des idées pour ce projet, et qu’on pourra réutiliser dans l’équipe;_  
+_- en parallèle, déterminer les spécifications techniques du site Menu Maker by Qwenta;_  
+_- puis organiser la gestion de projet du développement du site._  
 
 _Alors, avant notre rendez-vous avec John, il faudra que tu m’envoies :_
-_* Une présentation de 15 slides maximum qui valorise ton travail de veille. Ton outil de veille configuré devra montrer : Comment les sources d'information ont été sélectionnées; comment elles sont classées; et comment elles peuvent être commentées et diffusées; les informations issues de la veille que tu vas utiliser pour définir les spécifications techniques._
-_* Les spécifications techniques de l’outil “Menu Maker by Qwenta” (15 pages maximum). Pour pouvoir justifier la solution auprès du client, il faut expliquer tes choix et leur utilité !_
-_* Une présentation de la planification du projet de 15 slides maximum. Elle devra expliquer la manière dont sera mené le projet, en utilisant un Kanban._
+* _Une présentation de 15 slides maximum qui valorise ton travail de veille. Ton outil de veille configuré devra montrer : Comment les sources d'information ont été sélectionnées; comment elles sont classées; et comment elles peuvent être commentées et diffusées; les informations issues de la veille que tu vas utiliser pour définir les spécifications techniques._
+* _Les spécifications techniques de l’outil “Menu Maker by Qwenta” (15 pages maximum). Pour pouvoir justifier la solution auprès du client, il faut expliquer tes choix et leur utilité !_
+* _Une présentation de la planification du projet de 15 slides maximum. Elle devra expliquer la manière dont sera mené le projet, en utilisant un Kanban._
  
 _Il ne restera plus qu’à mettre ça en forme pour le présenter à John. Ce n’est pas quelqu’un de très technique, alors il faudra s’assurer d’être clair et convaincant, sans le noyer dans des termes qu’il ne comprendra pas. Pour cela, il faut que tu m’envoies une présentation de 20 slides maximum, que je lui transmettrai en amont de la réunion de lancement. Cette présentation devra expliquer la solution technique retenue, en mettant en avant :_  
 _les spécifications techniques présentées de façon visuelle (diagrammes, schéma, images démonstratives…) pour qu’il comprenne bien comment fonctionnera le site;_  
