@@ -51,6 +51,6 @@ La planification et la gestion de projets sont des compétences clés dans le do
 ----
 
 <p align="center" width="100%">
-    <img width="90%" src="https://github.com/Bernard-VERA/Projet-4/blob/main/images/qwenta.jpg"> 
+    <img width="90%" src="https://github.com/Bernard-VERA/Projet-4/blob/master/images/qwenta.jpg"> 
 </p>
   
