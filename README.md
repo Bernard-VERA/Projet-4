@@ -46,5 +46,11 @@ La planification et la gestion de projets sont des compétences clés dans le do
 * Présenter la solution technique  
 * Rédiger les spécifications techniques d'un projet web à partir de besoins fonctionnels  
 * Découper les fonctionnalités en tâches pour préparer le développement  
-* Suivre le déroulement du projet grâce à un outil de gestion de projet  
+* Suivre le déroulement du projet grâce à un outil de gestion de projet 
+
+----
+
+<p align="center" width="100%">
+    <img width="90%" src="https://github.com/Bernard-VERA/Projet-4/blob/main/images/qwenta.jpg"> 
+</p>
   
